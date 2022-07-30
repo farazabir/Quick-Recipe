@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quick-Recipe/static/css/main.92b5a2ec.css",
+    "main.js": "/quick-Recipe/static/js/main.3de1bdf9.js",
+    "index.html": "/quick-Recipe/index.html",
+    "main.92b5a2ec.css.map": "/quick-Recipe/static/css/main.92b5a2ec.css.map",
+    "main.3de1bdf9.js.map": "/quick-Recipe/static/js/main.3de1bdf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92b5a2ec.css",
+    "static/js/main.3de1bdf9.js"
+  ]
+}
